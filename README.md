@@ -1,0 +1,2 @@
+# Aplikasi-Gallery-Pengetahuan
+Aplikasi yang beredar saat ini didominasi oleh aplikasi untuk orang dewasa. Oleh karena itu, aplikasi gallery pengetahuan ini diciptakan untuk menambah wawasan anak-anak dalam mengenal lingkungannya dan peran orang tua juga sangat penting dalam pembelajaran ini. Aplikasi gallery pengetahuan ini untuk anak-anak yang dikemas dalam media gambar yang berisi tentang pengenalan benda, buah, bunga, hewan, sayur, dan warna. Aplikasi ini menggunakan Bahasa Indonesia sebagai bahasa utamanya. 
